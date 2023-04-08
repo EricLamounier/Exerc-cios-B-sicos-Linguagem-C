@@ -1,0 +1,4 @@
+Rio-Paranaíba 12000
+Abaete 24000
+Sao-Paulo 200000
+Teste 1

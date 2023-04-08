@@ -1,0 +1,6 @@
+coca 12.5
+cebola 2
+miojo 1.25
+toddy 12.75
+eu 0
+teste 9
